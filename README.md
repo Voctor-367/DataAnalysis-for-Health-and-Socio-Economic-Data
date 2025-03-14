@@ -3,7 +3,10 @@
 ## 📌 Descrição
 
 Este projeto realiza um processo de **ETL (Extração, Transformação e Carga)** e **análise exploratória** dos dados da **Pesquisa Nacional de Saúde (PNS) 2019**, com o objetivo de construir um **dashboard interativo** no Power BI. O foco é identificar **desafios e tendências na área da saúde no Brasil**, facilitando o acesso e a interpretação de informações relevantes para **pesquisadores, estudantes e profissionais da saúde**.
+
+
 ![](resultado1.PNG)
+
 
 ## 🎯 Objetivos
 ✅ Facilitar a extração de informações significativas a partir de grandes volumes de dados da PNS 2019.  
